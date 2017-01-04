@@ -1,5 +1,5 @@
 #include "eecs230.h"
-
+string name ="Jonny";
 int main() {
-    cout << "Hello Jen!\n";
+    cout << "Hello, "<<name<<"!\n";
 }
